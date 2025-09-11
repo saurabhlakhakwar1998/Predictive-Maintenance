@@ -38,7 +38,7 @@ predictive-maintenance/
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/predictive-maintenance.git
+git clone https://github.com/saurabhlakhakwar1998/predictive-maintenance.git
 cd predictive-maintenance
 ```
 
@@ -62,10 +62,12 @@ python notebooks/02_Modeling.py
 ## 📊 Example Output
 
 **Correlation Heatmap**  
-![Heatmap](https://via.placeholder.com/600x300.png?text=Heatmap+Example)
+![Heatmap](https://via.placeholder.com/600x300.png?text=Heatmap+coming+soon)
 
 **Confusion Matrix**  
-![Confusion Matrix](https://via.placeholder.com/600x300.png?text=Confusion+Matrix+Example)
+![Confusion Matrix](https://via.placeholder.com/600x300.png?text=Confusion+Matrix+coming+soon)
+
+> 📌 *You can replace these placeholder images with actual screenshots later from your EDA and modeling outputs.*
 
 ---
 
@@ -78,8 +80,8 @@ python notebooks/02_Modeling.py
 
 ## 👨‍💻 Author
 **Saurabh Lakhakwar**  
-- 📍 Hinganghat  
-- 💼 Aspiring Data Analyst  
-- 🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+📍 Hinganghat  
+💼 Aspiring Data Analyst  
+🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/saurabhlakhakwar1998)
 
 ---
